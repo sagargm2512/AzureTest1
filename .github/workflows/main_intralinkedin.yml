@@ -52,4 +52,4 @@ jobs:
           app-name: 'IntraLinkedIn'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4628D1411E30441BBE4FC3B50E2003EA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B7B4F62FF9984FBAB676AEA12305D79C }}
