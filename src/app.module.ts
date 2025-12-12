@@ -16,7 +16,6 @@ import { ConfigModule } from '@nestjs/config';
   ],
   controllers: [AppController],
   providers: [AppService],
-  
+
 })
-export class AppModule {}
-console.log("DB URI:", process.env.MONGODB_URI);
+export class AppModule { }
